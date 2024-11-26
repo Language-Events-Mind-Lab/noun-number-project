@@ -1,0 +1,37 @@
+﻿PresOrder,ItemID,group,ConditionID,StimDescription,StimFilename
+1,Fill12,1,Seasons,Fall,Fill12_SeasonsFall.jpg
+2,Fill1,1,Action,Girl jumping rope,Fill1_GirlJumpingRope.jpg
+3,Targ4,1,Count,6,Targ4_Count6.jpg
+4,Fill6,1,Mass,Flower field,Fill6_Jellybeans.jpg
+5,Targ5,1,App,12,Targ5_Appro12.jpg
+6,Targ1,1,Sub,2,Targ1_Subin2.jpg
+7,Fill10,1,Seasons,Summer,Fill10_SeasonsSummer.jpg
+8,Fill5,1,Mass,Cars in parking lot,Fill5_Bouquet.jpg
+9,Targ6,1,App,16,Targ6_Appro16.jpg
+10,Fill8,1,Mass,Bag of candies,Fill8_BagOfCandies.jpg
+11,Fill7,1,Action,Dog digging in sand,Fill7_DogDiggingSand.jpg
+12,Fill11,1,Seasons,Winter,Fill11_SeasonsWinter.jpg
+13,Targ2,1,Sub,3,Targ2_Subin3.jpg
+14,Fill2,1,Mass,Pile of rice,Fill2_PileOfRice.jpg
+15,Targ3,1,Count,5,Targ3_Count5.jpg
+16,Fill9,1,Seasons,Spring,Fill9_SeasonsSpring.jpg
+17,Fill4,1,Action,Cat licking paw,Fill4_CatLickingPaw.jpg
+18,Fill3,1,Action,Boy throwing frisbee,Fill3_BoyThrowingFrisbee.jpg
+1,Fill3,2,Action,Boy throwing frisbee,Fill3_BoyThrowingFrisbee.jpg
+2,Fill4,2,Action,Cat licking paw,Fill4_CatLickingPaw.jpg
+3,Fill9,2,Seasons,Spring,Fill9_SeasonsSpring.jpg
+4,Targ3,2,Count,5,Targ3_Count5.jpg
+5,Fill2,2,Mass,Pile of rice,Fill2_PileOfRice.jpg
+6,Targ2,2,Sub,3,Targ2_Subin3.jpg
+7,Fill11,2,Seasons,Winter,Fill11_SeasonsWinter.jpg
+8,Fill7,2,Action,Dog digging in sand,Fill7_DogDiggingSand.jpg
+9,Fill8,2,Mass,Bag of candies,Fill8_BagOfCandies.jpg
+10,Targ6,2,App,16,Targ6_Appro16.jpg
+11,Fill5,2,Mass,Cars in parking lot,Fill5_Bouquet.jpg
+12,Fill10,2,Seasons,Summer,Fill10_SeasonsSummer.jpg
+13,Targ1,2,Sub,2,Targ1_Subin2.jpg
+14,Targ5,2,App,12,Targ5_Appro12.jpg
+15,Fill6,2,Mass,Flower field,Fill6_Jellybeans.jpg
+16,Targ4,2,Count,6,Targ4_Count6.jpg
+17,Fill1,2,Action,Girl jumping rope,Fill1_GirlJumpingRope.jpg
+18,Fill12,2,Seasons,Fall,Fill12_SeasonsFall.jpg
